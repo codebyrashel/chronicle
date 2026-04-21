@@ -43,14 +43,14 @@ This is the target. I'll track my progress against this matrix.
 
 | Competency | Junior | Mid-Level | Senior | My Status |
 |------------|--------|-----------|--------|-----------|
-| **Go Proficiency** | Basic syntax | Idiomatic Go, concurrency | Performance optimization, library design | 🟡 Learning |
-| **System Design** | Follows patterns | Designs simple systems | Architects complex distributed systems | ⚪ Not Started |
-| **Database Knowledge** | CRUD operations | Indexing, basic optimization | Sharding, replication, advanced tuning | ⚪ Not Started |
-| **API Design** | Implements endpoints | Designs RESTful APIs | API strategy, versioning, gRPC/GraphQL | ⚪ Not Started |
-| **Testing** | Occasional tests | Unit tests, integration | TDD, test strategy, mocking | ⚪ Not Started |
-| **DevOps** | Runs locally | Docker, basic CI | K8s, observability, incident response | ⚪ Not Started |
-| **Communication** | Needs guidance | Clear communicator | Mentors others, technical writing | 🟢 Progressing |
-| **Problem Solving** | Brute force | Efficient algorithms | System-level optimization | 🟡 Learning |
+| **Go Proficiency** | Basic syntax | Idiomatic Go, concurrency | Performance optimization, library design |Learning |
+| **System Design** | Follows patterns | Designs simple systems | Architects complex distributed systems |Not Started |
+| **Database Knowledge** | CRUD operations | Indexing, basic optimization | Sharding, replication, advanced tuning |Not Started |
+| **API Design** | Implements endpoints | Designs RESTful APIs | API strategy, versioning, gRPC/GraphQL |Not Started |
+| **Testing** | Occasional tests | Unit tests, integration | TDD, test strategy, mocking | Not Started |
+| **DevOps** | Runs locally | Docker, basic CI | K8s, observability, incident response |Not Started |
+| **Communication** | Needs guidance | Clear communicator | Mentors others, technical writing |Progressing |
+| **Problem Solving** | Brute force | Efficient algorithms | System-level optimization | Learning |
 
 ---
 
